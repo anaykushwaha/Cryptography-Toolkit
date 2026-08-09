@@ -7,19 +7,15 @@
 
 
 from __future__ import annotations
-
 from .scorer import (
     english_score,
     rank_candidates,
 )
-
 from cipher.caesar import (
     decrypt,
 )
 
-
 # Candidate Generation
-
 
 def generate_candidates(
     text: str,
