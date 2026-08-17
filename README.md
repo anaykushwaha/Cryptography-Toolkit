@@ -1,7 +1,3 @@
-Absolutely. Since you're planning to **revisit and polish the root documentation later**, I'd make the current `README.md` clean, professional, and informative without trying to document every feature in extreme detail yet.
-
-This version is ready to paste directly into your root `README.md`.
-
 ````markdown
 # Cryptography Toolkit
 
