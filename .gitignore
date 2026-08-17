@@ -1,0 +1,177 @@
+# ============================================================
+# Python
+# ============================================================
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Poetry
+poetry.lock
+
+# PDM
+.pdm.toml
+.pdm-python
+.pdm-build/
+
+# Hatch
+.hatch/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ============================================================
+# IDE / Editor Files
+# ============================================================
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# JetBrains IDEs
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# ============================================================
+# Operating System Files
+# ============================================================
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+.directory
+
+# ============================================================
+# Testing / Coverage
+# ============================================================
+
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# ============================================================
+# Type Checking / Linters
+# ============================================================
+
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# Ruff
+.ruff_cache/
+
+# ============================================================
+# Project Generated Files
+# ============================================================
+
+# Generated reports
+reports/*
+!reports/.gitkeep
+
+# Generated history
+history/*
+!history/.gitkeep
+
+# Temporary output files
+*.tmp
+*.temp
+
+# Temporary encryption/decryption output
+*.enc
+*.dec
+
+# Generated logs
+*.log
+
+# ============================================================
+# Local Configuration
+# ============================================================
+
+.env
+.env.*
+!.env.example
+
+# Local configuration overrides
+config.local.*
+settings.local.*
+
+# ============================================================
+# Jupyter
+# ============================================================
+
+.ipynb_checkpoints/
+
+# ============================================================
+# Miscellaneous
+# ============================================================
+
+*.bak
+*.backup
+*.old
+
+# OS / editor temporary files
+*.orig
+*.rej
+
