@@ -1,0 +1,5 @@
+# Cryptography Toolkit
+# Runtime Dependencies
+
+# Core project functionality uses Python's standard library.
+# No third-party runtime dependencies are currently required.
